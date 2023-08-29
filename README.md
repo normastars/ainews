@@ -7,3 +7,15 @@
 5. ChatDOC: 问答中获得即时答案 https://chatdoc.com/?twclid=26mjk7ptmh7nurmjsat1t4oqum
 
 * 编辑: richardyu
+
+
+### AI 每日新闻(2023-08-29)
+
+1. Code Llama 介绍:一种最先进的代码生成大型语言模型 https://ai.meta.com/blog/code-llama-large-language-model-coding/
+2. ChatRPA:你说，AI做-首个大模型Agent产品爆款出场 https://mp.weixin.qq.com/s/5_FK4hp-KXueRw_Gnoreeg
+3. 如何使用大型语言模型来构建您的第一个WordPress插件 https://danielkliewer.com/how-to-use-large-language-models-to-build-your-first-wordpress-plugin/
+4. OpenAI发布最强ChatGPT -- 企业版ChatGPT https://mp.weixin.qq.com/s/DekUo5fTDTSPXaX4vE-Cuw
+5. 大模型不同版本及其后缀是怎么回事(如:q3_K_L)？https://www.reddit.com/r/LocalLLaMA/comments/1644pl9/what_is_with_all_of_the_different_versions_and/
+
+* 编辑: richardyu
+* 新闻归档：https://github.com/normastars/ainews
