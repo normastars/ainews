@@ -19,3 +19,15 @@
 
 * 编辑: richardyu
 * 新闻归档：https://github.com/normastars/ainews
+
+
+### AI 每日新闻(2023-08-30)
+
+1. Redis 7.2 发布，向量搜索提升, 让 AI 创新更容易实现 https://redis.com/blog/introducing-redis-7-2/
+2. 微软论文-大模型能够利用自己的"直觉"，提供超过算法本身的搜索能力 https://arxiv.org/pdf/2308.10379.pdf
+3. 基于昇腾910使用ChatGLM-6B进行模型训练 https://mp.weixin.qq.com/s/VcanH-Y3QIsBsxmYeTcsZQ
+4. 用于数字营销的 15 种 AI 工具 https://www.aitoolsclub.com/15-ai-tools-for-digital-marketing/
+5. 基于LLM的自主代理的全面研究 https://arxiv.org/abs/2308.11432v1
+
+* 编辑: richardyu
+* 新闻归档：https://github.com/normastars/ainews
