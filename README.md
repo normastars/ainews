@@ -31,3 +31,14 @@
 
 * 编辑: richardyu
 * 新闻归档：https://github.com/normastars/ainews
+
+### AI 每日新闻(2023-08-31)
+
+1. 最佳实践: 从头开始训练或微调LLM https://uploads-ssl.webflow.com/5ac6b7f2924c656f2b13a88c/6435aabdc0a041194b243eef_Current%20Best%20Practices%20for%20Training%20LLMs%20from%20Scratch%20-%20Final.pdf
+2. 50+ 全新人工智能 AI 工具 https://www.marktechpost.com/2023/08/30/50-new-cutting-edge-ai-tools-2023/
+3. 关于大模型驱动的AI智能体Agent的一些思考 https://mp.weixin.qq.com/s/3HXt1QFCyCwq_TNCl2UMEw
+4. Lyft 从其 5 级自动驾驶车队中开源了其自动驾驶数据集 https://www.reddit.com/r/datascience/comments/cgwvds/wow_lyft_just_open_sourced_its_autonomous_driving/
+5. 字节跳动发布视频生成AI-MagicEdit https://magic-edit.github.io/
+
+* 编辑: richardyu
+* 新闻归档：https://mp.weixin.qq.com/s/ihFWbef5oG_B4gzOG2YLAQ
