@@ -42,3 +42,11 @@
 
 * 编辑: richardyu
 * 新闻归档：https://mp.weixin.qq.com/s/ihFWbef5oG_B4gzOG2YLAQ
+
+### AI 每日新闻(2023-09-01)
+
+1. OpenAI 发布使用指南: 教师如何使用 ChatGPT 提升学生学习 https://openai.com/blog/teaching-with-ai
+2. 大语言模型微调之道5—准备数据 https://www.bilibili.com/video/BV1Ep4y1N7pK/
+3. 对基于Transformer预训练技术的GPT-4底层原理剖析 https://mp.weixin.qq.com/s/fpDKQSWRQK_bufDtNYNtfw
+4. OpenCompass LLM评测8月榜单新鲜出炉 https://mp.weixin.qq.com/s/C1fzOxFO76tH95DiJiqtUQ
+5. Midjourney AI 可以修改图片细节了 https://medium.com/seeds-for-the-future/midjourney-ai-can-finally-inpaint-1f8a01c7bd15
