@@ -45,8 +45,23 @@
 
 ### AI 每日新闻(2023-09-01)
 
-1. OpenAI 发布使用指南: 教师如何使用 ChatGPT 提升学生学习 https://openai.com/blog/teaching-with-ai
+1. OpenAI发布使用指南: 教师如何使用 ChatGPT 提升学生学习 https://openai.com/blog/teaching-with-ai
 2. 大语言模型微调之道5—准备数据 https://www.bilibili.com/video/BV1Ep4y1N7pK/
 3. 对基于Transformer预训练技术的GPT-4底层原理剖析 https://mp.weixin.qq.com/s/fpDKQSWRQK_bufDtNYNtfw
 4. OpenCompass LLM评测8月榜单新鲜出炉 https://mp.weixin.qq.com/s/C1fzOxFO76tH95DiJiqtUQ
-5. Midjourney AI 可以修改图片细节了 https://medium.com/seeds-for-the-future/midjourney-ai-can-finally-inpaint-1f8a01c7bd15
+5. Midjourney 可以修改图片细节了 https://medium.com/seeds-for-the-future/midjourney-ai-can-finally-inpaint-1f8a01c7bd15
+
+* 编辑: richardyu
+* 新闻归档：https://mp.weixin.qq.com/s/5QcWdpTAgShNuGLgyIv02g
+
+
+### AI 每日新闻(2023-09-02)
+
+1. Prompt2Model根据自然语言指令生成可部署的模型 https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/
+2. 万字教程：Claude 教你写 AI 提示词，可能是最专业的 AI 工程师写的提示工程教程 https://mp.weixin.qq.com/s/tfkpHOs2jhz3UORh0CvU4Q
+3. kaggle:开源、共享高质量数据集,可用于模型训练 https://www.kaggle.com/datasets
+4. RecMind：【论文】由大型语言模型驱动的自主推荐代理 https://arxiv.org/abs/2308.14296
+5. 如何搭建 PDF 文档AI智能聊天系统? (含代码) https://mp.weixin.qq.com/s/j_xqSniH3xKSgod_4rBj5g
+
+* 编辑: richardyu
+* 新闻归档：https://mp.weixin.qq.com/s/A7AameGwVF4qZ-I3zzYiZA
