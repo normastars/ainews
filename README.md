@@ -65,3 +65,14 @@
 
 * 编辑: richardyu
 * 新闻归档：https://mp.weixin.qq.com/s/A7AameGwVF4qZ-I3zzYiZA
+
+### AI 每日新闻(2023-09-03)
+
+1. AnomalyGPT: 种基于大型视觉语言模型（LVLM）的新型IAD方法，用于检测工业异常 https://www.marktechpost.com/2023/09/02/meet-anomalygpt-a-novel-iad-approach-based-on-large-vision-language-models-lvlm-to-detect-industrial-anomalies/
+2. Llama2 Code Interpreter https://github.com/SeungyounShin/Llama2-Code-Interpreter
+3. 使用ChatGPT API构建系统合集-吴恩达 https://space.bilibili.com/589397373/channel/collectiondetail?sid=1417948
+4. 大模型微调技术​报告汇总 https://mp.weixin.qq.com/s/gpMa8aqzax5RNCmJnTjcTw
+5. 20个提示词辅助你做出更好的战略性业务决策 https://twitter.com/Anurag_Creates/status/1697608591362974146
+
+* 编辑: richardyu
+* 新闻归档：https://mp.weixin.qq.com/s/yG_93CeqASyU4dvJeoft2w
